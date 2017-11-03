@@ -1,0 +1,58 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    height: 200px;
+    width: 100%;
+    background-color: antiquewhite;
+}
+
+.header_image img{
+    height: 100px;
+    width: 100%;
+}
+.header_image{
+    width: 300px;
+    margin: auto;
+}
+h1{
+    text-align: center;
+    color: palevioletred;
+}
+
+content{
+    display: flex;
+}
+footer{
+    height: 50px;
+    background-color: palevioletred;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.copyright{
+    text-align: right;
+    color: wheat;
+    padding: 10px;
+    font-size: 20px;
+}
+.main_image img{
+    width: 300px;
+    height: auto;
+}
+
+.main_image{
+    margin: auto;
+}
+
+.map_container{
+    width: 325px;
+    margin: auto;
+}
+
+.text{
+    color: cornflowerblue;
+}
